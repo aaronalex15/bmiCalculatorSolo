@@ -69,4 +69,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 /* For example, a person who weighs 180 lbs. and is 5 feet and 5 inches tall (65 inches total) 
-would calculate their BMI in the following way: 180 x 703 = 126,540. 
+would calculate their BMI in the following way: 180 x 703 = 126,540. */
